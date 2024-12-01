@@ -16,10 +16,10 @@ const Email = () => {
         <input
           type="email"
           placeholder="Enter your email"
-          className="w-full md:w-auto border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-gray-500"
+          className="w-full md:w-[400px] border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-gray-500"
         />
         <button
-          className="bg-orange-800 text-white py-2 px-6 rounded-lg hover:bg-orange-700 transition-all duration-300"
+          className="bg-orange-800 text-white py-3 px-8 rounded-lg hover:bg-orange-700 transition-all duration-300"
         >
           Submit
         </button>
