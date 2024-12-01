@@ -17,7 +17,7 @@ const BookingForm = () => {
   };
 
   return (
-    <div className="container mx-auto px-4 py-6 relative max-w-7xl">
+    <div className="container mx-auto px-4 py-6 relative max-w-7xl mt-[-60px] z-[1050]">
       <div className="bg-white shadow-lg rounded-lg p-6 md:p-10">
         <form onSubmit={handleSubmit} className="grid gap-4 lg:grid-cols-12">
           {/* Input Fields Section */}

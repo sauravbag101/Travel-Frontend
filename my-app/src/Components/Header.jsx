@@ -97,7 +97,7 @@ const menuItems = [
 
 
   return (
-    <div className="relative w-full overflow-hidden">
+    <div className="relative w-full overflow-hidden ">
 
         {/* navbar */}
         <nav className="absolute top-0 left-0 w-full  bg-opacity-75 text-white z-50 px-60 ">

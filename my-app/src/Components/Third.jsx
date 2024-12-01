@@ -75,10 +75,10 @@ const TestimonialSlider = () => {
   };
 
   return (
-    <section className="py-16 bg-gray-800 text-white mt-[-80px]">
+    <section className="py-16 bg-gray-800 text-white mt-[-172px] ">
       <div className="text-center pt-20 px-4">
-        <p className="uppercase text-lg py-2">Why Tour Adventure</p>
-        <p className="text-2xl md:text-4xl font-serif py-4">
+        <p className="uppercase text-lg py-2 pt-[150px]">Why Tour Adventure</p>
+        <p className="text-2xl md:text-4xl font-serif py-4 ">
         <i>Tour</i> Adventure is all about storytelling and experience
         </p>
         <p className="text-lg max-w-2xl mx-auto pb-12">
