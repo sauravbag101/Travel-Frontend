@@ -57,29 +57,35 @@ const menuItems = [
 
   const carouselItems = [
     {
-      video: 'https://media.istockphoto.com/id/1471820340/video/view-of-modern-buildings-village-in-a-hill-at-nilgiri-forest-ooty-landscape-of-ooty-tamil.mp4?s=mp4-640x640-is&k=20&c=dIoAMk7NHXEuvhMQaocZXe-8q_g-ZDkRFSGrZrWMlqo=', // Replace with your video URL
-      title: 'Luxury Living',
-      subtitle: 'Discover A Brand Luxurious Hotel & Adventureous Tour',
+      video: 'https://videos.pexels.com/video-files/4460336/4460336-hd_1920_1080_25fps.mp4', // Replace with your video URL
+      title: 'Old Monuments',
+      subtitle: 'Experience the Old Religious Temple',
     },
+    
     {
       video: 'https://media.istockphoto.com/id/1472075777/video/riding-sailboat-motorboat-on-a-lake-edge-or-riverbank.mp4?s=mp4-640x640-is&k=20&c=Q0c7y-zC-zOpqu-1rux7DBSCPrC3e_Bor8H1lcG9aQY=', // Replace with your video URL
-      title: 'Modern Comfort',
-      subtitle: 'Experience the Ultimate Comfort',
+      title: 'Adventurous Activity',
+      subtitle: 'Thrill & Adventurous with Ultimate Fun',
     },
     {
         video: 'https://videos.pexels.com/video-files/20200352/20200352-uhd_2560_1440_50fps.mp4', // Replace with your video URL
-        title: 'Modern Comfort',
-        subtitle: 'Experience the Ultimate Comfort',
+        title: 'Night Party',
+        subtitle: 'Experience the Night party in Goa',
       },
       {
         video: 'https://videos.pexels.com/video-files/2169880/2169880-uhd_2560_1440_30fps.mp4', // Replace with your video URL
-        title: 'Modern Comfort',
-        subtitle: 'Experience the Ultimate Comfort',
+        title: 'Nature Beauty',
+        subtitle: 'Experience the unhidden Beauty of Kerela',
       },
       {
         video: 'https://videos.pexels.com/video-files/4460336/4460336-hd_1920_1080_25fps.mp4', // Replace with your video URL
         title: 'Modern Comfort',
         subtitle: 'Experience the Ultimate Comfort',
+      },
+      {
+        video: 'https://media.istockphoto.com/id/1471820340/video/view-of-modern-buildings-village-in-a-hill-at-nilgiri-forest-ooty-landscape-of-ooty-tamil.mp4?s=mp4-640x640-is&k=20&c=dIoAMk7NHXEuvhMQaocZXe-8q_g-ZDkRFSGrZrWMlqo=', // Replace with your video URL
+        title: 'Luxury Living',
+        subtitle: 'Discover A Brand Luxurious Hotel & Adventureous Tour',
       },
   ];
 
