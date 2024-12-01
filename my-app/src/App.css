@@ -1,0 +1,10 @@
+/* Override the default dot styles */
+.slick-dots li button:before {
+    color: white; /* Make the dots white */
+    opacity: 0.7; /* Optional: Slightly transparent */
+  }
+  
+  .slick-dots li.slick-active button:before {
+    color: white; /* Keep the active dot white */
+    opacity: 1; /* Fully visible */
+  }
